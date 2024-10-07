@@ -14,6 +14,7 @@ input,
 div,
 span[role="text"],
 span[dir="auto"],
+[dir="auto"],
 p {
     font-family: 'IBM Plex Sans Arabic'!important;
 }
